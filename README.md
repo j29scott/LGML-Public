@@ -1,6 +1,5 @@
 # LGML-Public
----
-# This is the publically available repossitory for LGML: Logic Guided Machine Learning
+## This is the publically available repossitory for LGML: Logic Guided Machine Learning
 
 LGML: Logic guided machine learning is an ongoing project at the University of Waterloo.
 
